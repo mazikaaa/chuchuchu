@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 50538783e9d4da04b8ee08cc1ab35fa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8776644793549920566
+    second: sozai_image_97632 (1)_0
+  - first:
+      213: -5798142442205747257
+    second: sozai_image_97632 (1)_1
+  - first:
+      213: 439018952633355790
+    second: sozai_image_97632 (1)_2
+  - first:
+      213: 1216932948714008340
+    second: sozai_image_97632 (1)_3
+  - first:
+      213: -164755559728055671
+    second: sozai_image_97632 (1)_4
+  - first:
+      213: 3374194478834430432
+    second: sozai_image_97632 (1)_5
+  - first:
+      213: -3548842848713710431
+    second: sozai_image_97632 (1)_6
+  - first:
+      213: -8661160504296014232
+    second: sozai_image_97632 (1)_7
+  - first:
+      213: 8527180897388433557
+    second: sozai_image_97632 (1)_8
+  - first:
+      213: 760861621392935863
+    second: sozai_image_97632 (1)_9
+  - first:
+      213: -3277707715533948010
+    second: sozai_image_97632 (1)_10
+  - first:
+      213: -2252101052007659400
+    second: sozai_image_97632 (1)_11
+  - first:
+      213: 6300162400398129372
+    second: sozai_image_97632 (1)_12
+  - first:
+      213: 7377991118128682847
+    second: sozai_image_97632 (1)_13
+  - first:
+      213: 8227042534036160273
+    second: sozai_image_97632 (1)_14
+  - first:
+      213: 7778642533702213790
+    second: sozai_image_97632 (1)_15
+  - first:
+      213: 2552951700155286705
+    second: sozai_image_97632 (1)_16
+  - first:
+      213: -5319836915258050051
+    second: sozai_image_97632 (1)_17
+  - first:
+      213: 2220207441695001280
+    second: sozai_image_97632 (1)_18
+  - first:
+      213: -78785301556457974
+    second: sozai_image_97632 (1)_19
+  - first:
+      213: -411706006932191766
+    second: sozai_image_97632 (1)_20
+  - first:
+      213: 4847360723899513521
+    second: sozai_image_97632 (1)_21
+  - first:
+      213: 1175267791258783460
+    second: sozai_image_97632 (1)_22
+  - first:
+      213: -3697783552618742926
+    second: sozai_image_97632 (1)_23
+  - first:
+      213: -7313166048853253741
+    second: sozai_image_97632 (1)_24
+  - first:
+      213: -5849022100852981927
+    second: sozai_image_97632 (1)_25
+  - first:
+      213: -2391173656953889712
+    second: sozai_image_97632 (1)_26
+  - first:
+      213: 6513974154640034789
+    second: sozai_image_97632 (1)_27
+  - first:
+      213: 2521145919328727412
+    second: sozai_image_97632 (1)_28
+  - first:
+      213: -4012690130586394497
+    second: sozai_image_97632 (1)_29
+  - first:
+      213: -5705822104195374137
+    second: sozai_image_97632 (1)_30
+  - first:
+      213: 3776325572360457377
+    second: sozai_image_97632 (1)_31
+  - first:
+      213: -5828006191927305476
+    second: sozai_image_97632 (1)_32
+  - first:
+      213: 7629309477144621586
+    second: sozai_image_97632 (1)_33
+  - first:
+      213: -2955380005121265068
+    second: sozai_image_97632 (1)_34
+  - first:
+      213: 7627905836007137858
+    second: sozai_image_97632 (1)_35
+  - first:
+      213: 2505354392829960065
+    second: sozai_image_97632 (1)_36
+  - first:
+      213: 7139567762492478316
+    second: sozai_image_97632 (1)_37
+  - first:
+      213: -737424387404169286
+    second: sozai_image_97632 (1)_38
+  - first:
+      213: -6607140513463017458
+    second: sozai_image_97632 (1)_39
+  - first:
+      213: 1260223478541866400
+    second: sozai_image_97632 (1)_40
+  - first:
+      213: 4466839752344284938
+    second: sozai_image_97632 (1)_41
+  - first:
+      213: -2209346963162213417
+    second: sozai_image_97632 (1)_42
+  - first:
+      213: 1729324489856055817
+    second: sozai_image_97632 (1)_43
+  - first:
+      213: 5285502967737276623
+    second: sozai_image_97632 (1)_44
+  - first:
+      213: -4573141384132103297
+    second: sozai_image_97632 (1)_45
+  - first:
+      213: 2578165611839075464
+    second: sozai_image_97632 (1)_46
+  - first:
+      213: -6140578645827446923
+    second: sozai_image_97632 (1)_47
+  - first:
+      213: -4730159368961303534
+    second: sozai_image_97632 (1)_48
+  - first:
+      213: 4462560682713492243
+    second: sozai_image_97632 (1)_49
+  - first:
+      213: -5912155697561884221
+    second: sozai_image_97632 (1)_50
+  - first:
+      213: 3686031944600924178
+    second: sozai_image_97632 (1)_51
+  - first:
+      213: 5707833651884470372
+    second: sozai_image_97632 (1)_52
+  - first:
+      213: -3797031903586558040
+    second: sozai_image_97632 (1)_53
+  - first:
+      213: -6577490227835427525
+    second: sozai_image_97632 (1)_54
+  - first:
+      213: -7833308031917496606
+    second: sozai_image_97632 (1)_55
+  - first:
+      213: -7966616900740267762
+    second: sozai_image_97632 (1)_56
+  - first:
+      213: 5257901399633660117
+    second: sozai_image_97632 (1)_57
+  - first:
+      213: -6158203912418728037
+    second: sozai_image_97632 (1)_58
+  - first:
+      213: -193409958350571801
+    second: sozai_image_97632 (1)_59
+  - first:
+      213: 7460589078780397177
+    second: sozai_image_97632 (1)_60
+  - first:
+      213: -8879558667105969038
+    second: sozai_image_97632 (1)_61
+  - first:
+      213: -6928803144747312549
+    second: sozai_image_97632 (1)_62
+  - first:
+      213: 4051437836392224044
+    second: sozai_image_97632 (1)_63
+  - first:
+      213: 5547619221903271391
+    second: sozai_image_97632 (1)_64
+  - first:
+      213: 712031304025742121
+    second: sozai_image_97632 (1)_65
+  - first:
+      213: 1183910049327073700
+    second: sozai_image_97632 (1)_66
+  - first:
+      213: 2822586335079866360
+    second: sozai_image_97632 (1)_67
+  - first:
+      213: -4210404644247624428
+    second: sozai_image_97632 (1)_68
+  - first:
+      213: -9211974869971147991
+    second: sozai_image_97632 (1)_69
+  - first:
+      213: -5668001292244795560
+    second: sozai_image_97632 (1)_70
+  - first:
+      213: -193946395467941733
+    second: sozai_image_97632 (1)_71
+  - first:
+      213: 920420661217933954
+    second: sozai_image_97632 (1)_72
+  - first:
+      213: 7697764944120914959
+    second: sozai_image_97632 (1)_73
+  - first:
+      213: 3117039700722867632
+    second: sozai_image_97632 (1)_74
+  - first:
+      213: 1925089889687184500
+    second: sozai_image_97632 (1)_75
+  - first:
+      213: 6397883217600698406
+    second: sozai_image_97632 (1)_76
+  - first:
+      213: 5057123786795698568
+    second: sozai_image_97632 (1)_77
+  - first:
+      213: -4436861458403412959
+    second: sozai_image_97632 (1)_78
+  - first:
+      213: 8707709297562700873
+    second: sozai_image_97632 (1)_79
+  - first:
+      213: 4610843512086126985
+    second: sozai_image_97632 (1)_80
+  - first:
+      213: 2406462732790799731
+    second: sozai_image_97632 (1)_81
+  - first:
+      213: -1044806495086518792
+    second: sozai_image_97632 (1)_82
+  - first:
+      213: 1711811420458567750
+    second: sozai_image_97632 (1)_83
+  - first:
+      213: -8952197866350971373
+    second: sozai_image_97632 (1)_84
+  - first:
+      213: -6001989000059412320
+    second: sozai_image_97632 (1)_85
+  - first:
+      213: -8176261493517144669
+    second: sozai_image_97632 (1)_86
+  - first:
+      213: -9002826905945306599
+    second: sozai_image_97632 (1)_87
+  - first:
+      213: 2583821045216836664
+    second: sozai_image_97632 (1)_88
+  - first:
+      213: 2392125799852615057
+    second: sozai_image_97632 (1)_89
+  - first:
+      213: -3522642549624833654
+    second: sozai_image_97632 (1)_90
+  - first:
+      213: 3900570159845337329
+    second: sozai_image_97632 (1)_91
+  - first:
+      213: 3566148490916629977
+    second: sozai_image_97632 (1)_92
+  - first:
+      213: 4961036716696516252
+    second: sozai_image_97632 (1)_93
+  - first:
+      213: 5677669684581199487
+    second: sozai_image_97632 (1)_94
+  - first:
+      213: 6903289519646159371
+    second: sozai_image_97632 (1)_95
+  - first:
+      213: -2342062227782773971
+    second: sozai_image_97632 (1)_96
+  - first:
+      213: 8570361962141501939
+    second: sozai_image_97632 (1)_97
+  - first:
+      213: 6018774399665503278
+    second: sozai_image_97632 (1)_98
+  - first:
+      213: 550588157073197341
+    second: sozai_image_97632 (1)_99
+  - first:
+      213: -5404626060214052459
+    second: sozai_image_97632 (1)_100
+  - first:
+      213: -6548694178476012074
+    second: sozai_image_97632 (1)_101
+  - first:
+      213: -2324309808544266905
+    second: sozai_image_97632 (1)_102
+  - first:
+      213: 6980992147221886302
+    second: sozai_image_97632 (1)_103
+  - first:
+      213: 904276308108607468
+    second: sozai_image_97632 (1)_104
+  - first:
+      213: -8306823543173512573
+    second: sozai_image_97632 (1)_105
+  - first:
+      213: 5440334576576926908
+    second: sozai_image_97632 (1)_106
+  - first:
+      213: -3394473134542791572
+    second: sozai_image_97632 (1)_107
+  - first:
+      213: 1403945815459500855
+    second: sozai_image_97632 (1)_108
+  - first:
+      213: -6716219238461943742
+    second: sozai_image_97632 (1)_109
+  - first:
+      213: 8437048334712774232
+    second: sozai_image_97632 (1)_110
+  - first:
+      213: -5099723518996056103
+    second: sozai_image_97632 (1)_111
+  - first:
+      213: 734779060393014146
+    second: sozai_image_97632 (1)_112
+  - first:
+      213: 4885059731581970472
+    second: sozai_image_97632 (1)_113
+  - first:
+      213: 5047719659715870056
+    second: sozai_image_97632 (1)_114
+  - first:
+      213: 6214733113371110377
+    second: sozai_image_97632 (1)_115
+  - first:
+      213: 2721080866307469098
+    second: sozai_image_97632 (1)_116
+  - first:
+      213: 7303678681019637378
+    second: sozai_image_97632 (1)_117
+  - first:
+      213: -7644632529047864065
+    second: sozai_image_97632 (1)_118
+  - first:
+      213: -7295327145284777612
+    second: sozai_image_97632 (1)_119
+  - first:
+      213: 7154561162372052708
+    second: sozai_image_97632 (1)_120
+  - first:
+      213: 7906316949376506516
+    second: sozai_image_97632 (1)_121
+  - first:
+      213: -1162190779201975619
+    second: sozai_image_97632 (1)_122
+  - first:
+      213: 2520921783798935072
+    second: sozai_image_97632 (1)_123
+  - first:
+      213: 2501886527271102695
+    second: sozai_image_97632 (1)_124
+  - first:
+      213: -2724559576622658052
+    second: sozai_image_97632 (1)_125
+  - first:
+      213: 4107828429745742387
+    second: sozai_image_97632 (1)_126
+  - first:
+      213: 3938079732577790399
+    second: sozai_image_97632 (1)_127
+  - first:
+      213: 5660502244008436191
+    second: sozai_image_97632 (1)_128
+  - first:
+      213: 2239578006659892678
+    second: sozai_image_97632 (1)_129
+  - first:
+      213: -4559181677229819273
+    second: sozai_image_97632 (1)_130
+  - first:
+      213: -2600876309513339965
+    second: sozai_image_97632 (1)_131
+  - first:
+      213: -4345261302051014677
+    second: sozai_image_97632 (1)_132
+  - first:
+      213: 4128449366557254064
+    second: sozai_image_97632 (1)_133
+  - first:
+      213: -8698263792725099541
+    second: sozai_image_97632 (1)_134
+  - first:
+      213: 2765416639480325100
+    second: sozai_image_97632 (1)_135
+  - first:
+      213: 2318117461615688016
+    second: sozai_image_97632 (1)_136
+  - first:
+      213: 2734283918518234638
+    second: sozai_image_97632 (1)_137
+  - first:
+      213: -6679010862618337074
+    second: sozai_image_97632 (1)_138
+  - first:
+      213: -2424227517625271776
+    second: sozai_image_97632 (1)_139
+  - first:
+      213: -15185747138938555
+    second: sozai_image_97632 (1)_140
+  - first:
+      213: -6573972626699440505
+    second: sozai_image_97632 (1)_141
+  - first:
+      213: -6049058388130710716
+    second: sozai_image_97632 (1)_142
+  - first:
+      213: -6309554773148593166
+    second: sozai_image_97632 (1)_143
+  - first:
+      213: 3204058590153954908
+    second: sozai_image_97632 (1)_144
+  - first:
+      213: -9086231379579546673
+    second: sozai_image_97632 (1)_145
+  - first:
+      213: 1873409684152865202
+    second: sozai_image_97632 (1)_146
+  - first:
+      213: 875432322960474732
+    second: sozai_image_97632 (1)_147
+  - first:
+      213: 8468288655433620195
+    second: sozai_image_97632 (1)_148
+  - first:
+      213: 655961770830487649
+    second: sozai_image_97632 (1)_149
+  - first:
+      213: 3791008679818111221
+    second: sozai_image_97632 (1)_150
+  - first:
+      213: -5342972836861028469
+    second: sozai_image_97632 (1)_151
+  - first:
+      213: 2945181921806973097
+    second: sozai_image_97632 (1)_152
+  - first:
+      213: 4586810869217680467
+    second: sozai_image_97632 (1)_153
+  - first:
+      213: 8492877986557944482
+    second: sozai_image_97632 (1)_154
+  - first:
+      213: -3043613720762914126
+    second: sozai_image_97632 (1)_155
+  - first:
+      213: -5501959211125568375
+    second: sozai_image_97632 (1)_156
+  - first:
+      213: 3607971338514258550
+    second: sozai_image_97632 (1)_157
+  - first:
+      213: 1914252907957382172
+    second: sozai_image_97632 (1)_158
+  - first:
+      213: -1198886203361170971
+    second: sozai_image_97632 (1)_159
+  - first:
+      213: 6241112572249118501
+    second: sozai_image_97632 (1)_160
+  - first:
+      213: 856084299603957102
+    second: sozai_image_97632 (1)_161
+  - first:
+      213: -3595605197866288403
+    second: sozai_image_97632 (1)_162
+  - first:
+      213: 5870088681741418074
+    second: sozai_image_97632 (1)_163
+  - first:
+      213: 6665789403169744176
+    second: sozai_image_97632 (1)_164
+  - first:
+      213: -4690411285297283131
+    second: sozai_image_97632 (1)_165
+  - first:
+      213: 7928270191247708707
+    second: sozai_image_97632 (1)_166
+  - first:
+      213: -170314530177597801
+    second: sozai_image_97632 (1)_167
+  - first:
+      213: -615729479429005736
+    second: sozai_image_97632 (1)_168
+  - first:
+      213: 2396943004685631330
+    second: sozai_image_97632 (1)_169
+  - first:
+      213: -523757265140281719
+    second: sozai_image_97632 (1)_170
+  - first:
+      213: 3438115226617812641
+    second: sozai_image_97632 (1)_171
+  - first:
+      213: -4257234513079642566
+    second: sozai_image_97632 (1)_172
+  - first:
+      213: 8875058743187093902
+    second: sozai_image_97632 (1)_173
+  - first:
+      213: 4989923377483399887
+    second: sozai_image_97632 (1)_174
+  - first:
+      213: 8615053387264544916
+    second: sozai_image_97632 (1)_175
+  - first:
+      213: -1553839686982783738
+    second: sozai_image_97632 (1)_176
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sozai_image_97632 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 740
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6eca89f08133680800000000000000
+      internalID: -8776644793549920566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sozai_image_97632 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 555
+        width: 740
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7e53f2b2cd88fa0800000000000000
+      internalID: -5798142442205747257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sozai_image_97632 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 740
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e00615965b71600800000000000000
+      internalID: 439018952633355790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sozai_image_97632 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 740
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f219bb11a63e010800000000000000
+      internalID: 1216932948714008340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
