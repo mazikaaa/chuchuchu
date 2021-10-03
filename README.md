@@ -1,14 +1,14 @@
 # chuchuchu
 unity1weekで作ったゲームです。お題は「ちゅう」でした。
 
-パズルとシューティングを合わせたような（？）ゲームです。
+「中」の中の「中」を入れていく、パズルとシューティングを合わせたような（？）ゲームです。
 リンク先から遊ぶことが出来ます。
 https://unityroom.com/games/chwchwchw
 
 #### ゲーム画像  
-![resun_スタート画面](https://user-images.githubusercontent.com/45326553/106386803-176ed980-641a-11eb-9768-2ec93d0b9f99.png)
-![resun_裏画面](https://user-images.githubusercontent.com/45326553/106386806-18077000-641a-11eb-8159-9d4420bb82b7.png)
-![resun_表画面](https://user-images.githubusercontent.com/45326553/106386807-18a00680-641a-11eb-9e68-9d45bb6f1783.png)
+![タイトル画面](https://user-images.githubusercontent.com/45326553/135743600-ea99c679-ee81-4997-afcc-0ea3d246e507.png)
+![セレクト画面](https://user-images.githubusercontent.com/45326553/135743614-da3561f9-b287-49cb-9b27-f88027f349bb.png)
+![ゲーム画面](https://user-images.githubusercontent.com/45326553/135743621-b81cd43a-aa87-4467-8ee1-003015b337a9.png)
   
    ##### 作成期間
  1週間(30時間程度)  
@@ -18,3 +18,7 @@ https://unityroom.com/games/chwchwchw
   
   ##### 開発環境
   ・Unity(2019.1.14f)  
+
+
+
+
