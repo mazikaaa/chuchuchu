@@ -3,6 +3,7 @@ unity1weekで作ったゲームです。お題は「ちゅう」でした。
 
 パズルとシューティングを合わせたような（？）ゲームです。
 リンク先から遊ぶことが出来ます。
+https://unityroom.com/games/chwchwchw
 
 #### ゲーム画像  
 ![resun_スタート画面](https://user-images.githubusercontent.com/45326553/106386803-176ed980-641a-11eb-9768-2ec93d0b9f99.png)
