@@ -6,9 +6,10 @@ unity1weekで作ったゲームです。お題は「ちゅう」でした。
 https://unityroom.com/games/chwchwchw
 
 #### ゲーム画像  
-![タイトル画面](https://user-images.githubusercontent.com/45326553/135743600-ea99c679-ee81-4997-afcc-0ea3d246e507.png)
-![セレクト画面](https://user-images.githubusercontent.com/45326553/135743614-da3561f9-b287-49cb-9b27-f88027f349bb.png)
-![ゲーム画面](https://user-images.githubusercontent.com/45326553/135743621-b81cd43a-aa87-4467-8ee1-003015b337a9.png)
+![タイトル画面](https://user-images.githubusercontent.com/45326553/135743699-b6709b48-b888-4f78-b6bd-bb1119b5a1b0.png)
+![セレクト画面](https://user-images.githubusercontent.com/45326553/135743701-1981d08c-774c-4c16-b44b-1f035af470c9.png)
+![ゲーム画面](https://user-images.githubusercontent.com/45326553/135743702-d0fd6b2d-7e32-463a-9dcd-667ceda1b938.png)
+
   
    ##### 作成期間
  1週間(30時間程度)  
